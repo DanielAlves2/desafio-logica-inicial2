@@ -1,4 +1,4 @@
-# desafio-logica-inicial2
+# desafio-logica-inicial2g
 Meu primeiro repositório
 # **É importante saber usar a plataforma!** <h1>
 'javascript

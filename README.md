@@ -1,4 +1,4 @@
-# Texte de HTML
+# Textes de HTML
 Meu primeiro repositório
 # **É importante saber usar a plataforma!** <h1>
 'javascript

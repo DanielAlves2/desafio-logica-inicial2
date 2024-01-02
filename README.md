@@ -1,4 +1,4 @@
-# desafio-logica-inicial2g
+# Texte de HTML
 Meu primeiro repositório
 # **É importante saber usar a plataforma!** <h1>
 'javascript
